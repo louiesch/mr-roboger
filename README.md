@@ -33,7 +33,7 @@ Describe beepBoop()
 * _Test: "If the number 3 is input, return a string where all numbers containing the digit 3 are replaced with 'Wont you be my neighbor?'"_
 * Expect (beepBoop(3)).toEqual(Won't you be my neighbor?);
 
-* _Test: "If the number 2 is input, return a string where all numbers containing the digit 2 are replaced with 'Wont you be my neighbor?'"_
+* _Test: "If the number 2 is input, return a string where all numbers containing the digit 2 are replaced with 'Boop!'"_
 * Expect (beepBoop(2)).toEqual(Boop!);
 
 * _Test: "If the number 1 is input, return a string where all numbers containing the digit 1 are replaced with 'Beep!'"_
